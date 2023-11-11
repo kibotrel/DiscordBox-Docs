@@ -1,0 +1,24 @@
+# JS Files
+# -----------------------------------
+node_modules
+*.eslintcache
+dist
+coverage
+
+# Config files
+# -----------------------------------
+*.env
+
+# Miscellanenous
+# -----------------------------------
+.DS_Store
+.log
+.zip
+.csv
+.tmp
+logs
+
+# Vitepress
+# -----------------------------------
+docs/.vitepress/dist
+docs/.vitepress/cache
