@@ -5,7 +5,7 @@ export default defineConfig({
   title: "DiscordBox",
   description:
     "A framework to create Discord bots. Deals with all the boilerplate to let you focus on what makes your bot unique!",
-  head: [["link", { rel: "icon", href: "/assets/logo.svg" }]],
+  head: [["link", { rel: "icon", href: "/logo.svg" }]],
   cleanUrls: true,
   lastUpdated: true,
   markdown: {
@@ -14,7 +14,7 @@ export default defineConfig({
   },
   themeConfig: {
     nav: [{ text: "Guide", link: "/introduction/what-is-discordbox" }],
-    logo: "/assets/logo.svg",
+    logo: "/logo.svg",
     sidebar: [
       {
         text: "Introduction",

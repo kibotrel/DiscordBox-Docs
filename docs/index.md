@@ -5,7 +5,7 @@ hero:
   text: "Framework to easily create Discord bots"
   tagline: Simple and easy to use. Discover the framework that will make your life easier.
   image:
-    src: "/assets/logo.svg"
+    src: "/logo.svg"
     alt: "DiscordBox logo"
   actions:
     - theme: brand
@@ -16,7 +16,7 @@ hero:
       link: https://github.com/kibotrel/DiscordBox
 features:
   - icon:
-      src: "/assets/discordjs.svg"
+      src: "/discordjs.svg"
     title: Built on top of Discord.js
     details: Battle-tested and reliable, it's the most popular library for bot creation.
   - icon: 🚀
