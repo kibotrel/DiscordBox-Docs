@@ -8,6 +8,7 @@ export default defineConfig({
   head: [["link", { rel: "icon", href: "/logo.svg" }]],
   cleanUrls: true,
   lastUpdated: true,
+  ignoreDeadLinks: true,
   markdown: {
     lineNumbers: true,
     defaultHighlightLang: "ts",
