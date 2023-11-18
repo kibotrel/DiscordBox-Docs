@@ -15,10 +15,9 @@ hero:
       text: View on GitHub
       link: https://github.com/kibotrel/DiscordBox
 features:
-  - icon:
-      src: "/discordjs.svg"
-    title: Built on top of Discord.js
-    details: Battle-tested and reliable, it's the most popular library for bot creation.
+  - icon: ⚙️
+    title: Highly customizable
+    details: Most default behaviors can be overridden to fit your needs.
   - icon: 🚀
     title: Focus on what matters
     details: Little to no configuration, handles common events and all interaction types out of the box.
