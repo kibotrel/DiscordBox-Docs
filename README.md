@@ -13,6 +13,8 @@
 
 The full documentation is available on [docs.discordbox.dev](https://docs.discordbox.dev), powered by [VitePress](https://vitepress.vuejs.org/).
 
+> 🚧 It is still a work in progress, some pages may be missing or incomplete.
+
 ## ✨ Contributing
 
 Contributions are welcome, feel free to open an issue or submit a pull request.
