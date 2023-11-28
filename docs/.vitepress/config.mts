@@ -25,6 +25,10 @@ export default defineConfig({
             text: "What is DiscordBox?",
             link: "/introduction/what-is-discordbox",
           },
+          {
+            text: "Getting started",
+            link: "/introduction/getting-started",
+          },
         ],
       },
     ],
