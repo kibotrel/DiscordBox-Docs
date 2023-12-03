@@ -70,7 +70,7 @@ await bot.start();
 
 - `guildId` is used during your development to iterate faster, another `Snowflake`.
 
-- `supportUserId` is a Discord user `snowflake` that will be used in the default [error handling]() system.
+- `supportUserId` is a Discord user `Snowflake` that will be used in the default [error handling]() system.
 
 <div class="tip custom-block" style="padding-top: 8px">
 
@@ -78,7 +78,7 @@ await bot.start();
 
 </div>
 
-And you're done! No more code is needed on your end. [Slash commands are automatically registered and updated]() when you start your bot and a custom interaction handler is available by default.
+And you're done! No more code is needed on your end. [Slash commands are automatically registered and updated](./features.md#slash-command-deployment) when you start your bot and a custom interaction handler is available by default.
 
 ## Next steps
 

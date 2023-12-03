@@ -62,13 +62,13 @@ If your bot has some [Slash commands](https://discord.com/developers/docs/intera
 
 <div class="info custom-block" style="padding-top: 8px">
 
-Based on `NODE_ENV` environment variable, the [deployment]() will either be global or target a specific guild. Useful for development.
+Based on `NODE_ENV` environment variable, the [deployment](./features.md#slash-commands-deployment) will either be global or target a specific guild. Useful for development.
 
 </div>
 
 ### Advanced interaction system
 
-Using [Message components](https://discord.com/developers/docs/interactions/message-components) unique identifers, we came up with a deeper [interaction system]() that allows you to easily attach arbitrary logic to any [`Button`](https://discord.com/developers/docs/interactions/message-components#buttons) or [`SelectMenu`](https://discord.com/developers/docs/interactions/message-components#select-menus).
+Using [Message components](https://discord.com/developers/docs/interactions/message-components) unique identifers, we came up with a [deeper interaction system](./features.md#deeper-interaction-system) that allows you to easily attach arbitrary logic to any [`Button`](https://discord.com/developers/docs/interactions/message-components#buttons) or [`SelectMenu`](https://discord.com/developers/docs/interactions/message-components#select-menus).
 
 Along with this system, by default all interactions that your bot receives will be parsed to extract relevant information that we call [interaction metadata]().
 
