@@ -1,5 +1,7 @@
 # Getting Started
 
+This documentation assumes you have a good understanding of [Discord API](https://discord.com/developers/docs/intro) and [Discord.js](https://discord.js.org/#/docs/main/stable/general/welcome). It won't cover their concepts but will often refer to them.
+
 ## Installation
 
 ::: code-group
