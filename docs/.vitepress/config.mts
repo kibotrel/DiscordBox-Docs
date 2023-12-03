@@ -29,6 +29,10 @@ export default defineConfig({
             text: "Getting started",
             link: "/introduction/getting-started",
           },
+          {
+            text: "Features",
+            link: "/introduction/features",
+          },
         ],
       },
     ],
