@@ -34,7 +34,7 @@ As most bots do not require a lot of resources, we want to keep the framework as
 
 <div class="warning custom-block" style="padding-top: 8px">
 
-🚧 As of `1.0.1`, this is still work in progress, do not expect huge performance improvements.
+🚧 As of `1.0.6`, this is still work in progress, do not expect huge performance improvements.
 
 </div>
 
