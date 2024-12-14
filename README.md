@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://docs.discordbox.dev/logo.svg" alt="DiscordBox logo" width="256" height="256">
+  <img src="https://docs.discordbox.app/logo.svg" alt="DiscordBox logo" width="256" height="256">
   <h1 align="center">DiscordBox</h1>
   <p align="center">A Discord Bot framework built on top of <a href="https://discord.js.org/">discord.js</a> that allows you to focus on what makes your bot unique.</p>
 
@@ -11,7 +11,7 @@
 
 ## 📖 Documentation
 
-The full documentation is available on [docs.discordbox.dev](https://docs.discordbox.dev), powered by [VitePress](https://vitepress.vuejs.org/).
+The full documentation is available on [docs.discordbox.app](https://docs.discordbox.app), powered by [VitePress](https://vitepress.vuejs.org/).
 
 > 🚧 It is still a work in progress, some pages may be missing or incomplete.
 
