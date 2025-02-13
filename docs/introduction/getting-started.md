@@ -74,7 +74,7 @@ await bot.start();
 
 <div class="tip custom-block" style="padding-top: 8px">
 
-ℹ️ You might need to enable Developer Mode in your Discord client those <b>snowflakes</b>.
+ℹ️ You might need to enable Developer Mode in your Discord client to see those <b>snowflakes</b>.
 
 </div>
 
